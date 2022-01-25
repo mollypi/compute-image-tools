@@ -1,5 +1,7 @@
 # Compute Engine Image Tools
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/d741e7b8-8ae2-4705-86a6-e101afbfff86.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/compute-image-tools?orgId=561911742905)  [![Git](https://app.soluble.cloud/api/v1/public/badges/49064dd5-f15e-48b6-b90c-479cef7507e2.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/compute-image-tools?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/64291fed-25e9-4c0e-95dc-db50b4a84203.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/compute-image-tools?orgId=561911742905)  
+
 This repository contains various tools for managing disk images on Google
 Compute Engine.
 
